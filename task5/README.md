@@ -10,7 +10,7 @@ Description : https://gitcoin.co/issue/nervosnetwork/grants/6/100026212
 ## Address of the deployed
 
 ```
-
+0xdd930f007BD837f0cA22679f64DA16d22E9e211C
 ```
 
 ## Screenshot of the console output immediately after checking SUDT balance
