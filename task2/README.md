@@ -9,7 +9,7 @@ Task URL : https://gitcoin.co/issue/nervosnetwork/grants/3/100026209
 ## Transaction Hash
 
 ```
-
+0xbe967e92e6b21ec083c32b7067bb6f65e67fe6d10de00f4cbaedbf20182c1114
 ```
 
 ## Deployed Contract Address
