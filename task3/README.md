@@ -9,7 +9,7 @@ Description : https://gitcoin.co/issue/nervosnetwork/grants/4/100026210
 ## Transaction Hash
 
 ```
-0xbe967e92e6b21ec083c32b7067bb6f65e67fe6d10de00f4cbaedbf20182c1114
+0xa5ca3ee6c0331a99c27f5fa0024fd08b9176c4d0c1b00f76fb88105ff7e2c2b7
 ```
 
 ## Contract Address
