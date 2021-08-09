@@ -15,5 +15,5 @@ Task URL : https://gitcoin.co/issue/nervosnetwork/grants/3/100026209
 ## Deployed Contract Address
 
 ```
-
+0x0dB3613dB98e98aA8eb480965A9f0EbBD0B824D0
 ```
