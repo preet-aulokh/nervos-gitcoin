@@ -30,7 +30,7 @@ https://rinkeby.etherscan.io/tx/0x319ba13e37deeb3f04e230875e0f34fdca3e5e6691f1e5
 ## A link to the Nervos explorer for the successful Force bridge transaction. This can be found on Force Bridge under History→Succeed.
 
 ```
-https://explorer.nervos.org/aggron/transaction/0xb13e090c8743af71cfcb8cac26701df8a5eb7907f487efcade749ac0f8822720
+https://explorer.nervos.org/aggron/transaction/0x369f8bd9337dfc638ca10d64b1d54cc4916e006e9d20e9498f28a64b4a9c5145
 ```
 
 
